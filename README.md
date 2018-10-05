@@ -1,2 +1,2 @@
-# LearnDataScience
-This project is for learn Data Science
+# TwitterTweepy
+This project is connect Twitter and Python.
